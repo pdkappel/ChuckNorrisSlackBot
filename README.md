@@ -1,5 +1,5 @@
 ### Chuck Norris SlackBot
-Simple Slack Bot for slack.com that posts Chock Norris facts at random in selected channel.
+Simple Slack Bot for [Slack.com](http://www.slack.com) that posts Chock Norris facts at random in selected channel.
 
 Settings include how often Chuck should speak (silence him only if you dare) and in what channel.
 
