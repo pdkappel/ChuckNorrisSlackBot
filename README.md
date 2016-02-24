@@ -9,7 +9,7 @@ Settings include how often Chuck should speak (silence him only if you dare) and
 - Find the Bot integration
 - Name the new bot Chuck Norris and click "Add Bot Integration"
 - Enter Chuck Norris as first and last name
-- Copy the API token from Slack to the $slackToken variable in the norris class (norris.class.php)
+- Copy the API token from Slack to the $slackToken variable and set a slack channel in the norris class (norris.class.php)
 - Open goChuck.php and define the random number to match for Chuck to speak. Lower number = more facts.
 - And lastly, set up cron to execute goChuck.php at a desied inteval (every 5 mins during office hours is recommended)
 
